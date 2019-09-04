@@ -188,4 +188,4 @@ if __name__ == "__main__":
     # print(db.create_table(create_table_query, DATABASE_URL))
     # table_name = 'test_table'
     # print(db.drop_table(table_name, DATABASE_URL))
-    print (db.show_table())
+    # print (db.show_table())
