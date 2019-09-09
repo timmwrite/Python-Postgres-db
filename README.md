@@ -1,1 +1,1 @@
-
+[![Coverage Status](https://coveralls.io/repos/github/timmwrite/Python-Postgres-db/badge.svg?branch=postgres_database)](https://coveralls.io/github/timmwrite/Python-Postgres-db?branch=postgres_database)
